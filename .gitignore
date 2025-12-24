@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+# python-specific files
+__pycache__
+.venv
+dist
