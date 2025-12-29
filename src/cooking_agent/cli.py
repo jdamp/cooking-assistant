@@ -7,7 +7,7 @@ from rich.markdown import Markdown
 from rich.panel import Panel
 from rich.prompt import Prompt
 
-from cooking_agent.agents import create_supervisor_agent
+from cooking_agent.supervisor import create_supervisor_agent
 
 
 console = Console()
